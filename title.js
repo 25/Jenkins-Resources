@@ -1,0 +1,1 @@
+document.title = "SoulBound.me " + document.title;
